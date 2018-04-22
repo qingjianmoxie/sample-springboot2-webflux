@@ -1,4 +1,4 @@
-package org.visakha.springapp
+package org.visakha.springappy
 
 import org.junit.Test
 import org.junit.runner.RunWith
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner
 
 @RunWith(SpringRunner::class)
 @SpringBootTest
-class SpringAppApplicationTests {
+class SpringAppyTests {
 
 	@Test
 	fun contextLoads() {
